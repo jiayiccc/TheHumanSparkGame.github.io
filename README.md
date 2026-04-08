@@ -13,8 +13,7 @@
 * [Iteration & Validation](#iteration--validation)
 * [Outcome](#outcome)
 * [Potential](#potential)
-* [Getting Started](#getting-started)
-
+  
 ---
 
 ## Overview
@@ -72,22 +71,4 @@ In a near-future scenario, humans are selected for migration to Mars. Traditiona
 
 ---
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/human-spark.git
-   ```
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-3. Run the application:
-
-   ```bash
-   npm start
-   ```
-4. Open `http://localhost:3000` in your browser.
 
